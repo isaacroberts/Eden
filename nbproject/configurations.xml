@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="Biome" displayName="Biome" projectFiles="true">
+        <itemPath>Biome/Biome.h</itemPath>
+        <itemPath>Biome/Desert.cpp</itemPath>
+        <itemPath>Biome/Desert.h</itemPath>
+        <itemPath>Biome/Flatland.cpp</itemPath>
+        <itemPath>Biome/Flatland.h</itemPath>
+        <itemPath>Biome/Forest.cpp</itemPath>
+        <itemPath>Biome/Forest.h</itemPath>
+        <itemPath>Biome/Hell.cpp</itemPath>
+        <itemPath>Biome/Hell.h</itemPath>
+        <itemPath>Biome/MountainRange.cpp</itemPath>
+        <itemPath>Biome/MountainRange.h</itemPath>
+        <itemPath>Biome/_.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="Gui" displayName="Gui" projectFiles="true">
+        <logicalFolder name="Popup" displayName="Popup" projectFiles="true">
+          <itemPath>Gui/Popup/DisplayTypeMenu.cpp</itemPath>
+          <itemPath>Gui/Popup/DisplayTypeMenu.h</itemPath>
+          <itemPath>Gui/Popup/MapCommandMenu.cpp</itemPath>
+          <itemPath>Gui/Popup/MapCommandMenu.h</itemPath>
+          <itemPath>Gui/Popup/PopupMenu.cpp</itemPath>
+          <itemPath>Gui/Popup/PopupMenu.h</itemPath>
+          <itemPath>Gui/Popup/_.h</itemPath>
+        </logicalFolder>
+        <itemPath>Gui/Color.h</itemPath>
+        <itemPath>Gui/Draw.cpp</itemPath>
+        <itemPath>Gui/Draw.h</itemPath>
+        <itemPath>Gui/Event.cpp</itemPath>
+        <itemPath>Gui/Event.h</itemPath>
+        <itemPath>Gui/Gui.cpp</itemPath>
+        <itemPath>Gui/Gui.h</itemPath>
+        <itemPath>Gui/LoadingScreen.cpp</itemPath>
+        <itemPath>Gui/LoadingScreen.h</itemPath>
+        <itemPath>Gui/_.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="Matter" displayName="Matter" projectFiles="true">
+        <itemPath>Matter/Animal.cpp</itemPath>
+        <itemPath>Matter/Animal.h</itemPath>
+        <itemPath>Matter/Blood.h</itemPath>
+        <itemPath>Matter/Covering.cpp</itemPath>
+        <itemPath>Matter/Covering.h</itemPath>
+        <itemPath>Matter/Dirt.h</itemPath>
+        <itemPath>Matter/Fluid.cpp</itemPath>
+        <itemPath>Matter/Fluid.h</itemPath>
+        <itemPath>Matter/Food.cpp</itemPath>
+        <itemPath>Matter/Food.h</itemPath>
+        <itemPath>Matter/Fruit.cpp</itemPath>
+        <itemPath>Matter/Fruit.h</itemPath>
+        <itemPath>Matter/Glass.h</itemPath>
+        <itemPath>Matter/Granite.h</itemPath>
+        <itemPath>Matter/Grass.cpp</itemPath>
+        <itemPath>Matter/Grass.h</itemPath>
+        <itemPath>Matter/Lava.cpp</itemPath>
+        <itemPath>Matter/Lava.h</itemPath>
+        <itemPath>Matter/Liquid.cpp</itemPath>
+        <itemPath>Matter/Liquid.h</itemPath>
+        <itemPath>Matter/Matter.cpp</itemPath>
+        <itemPath>Matter/Matter.h</itemPath>
+        <itemPath>Matter/Mobador.cpp</itemPath>
+        <itemPath>Matter/Mobador.h</itemPath>
+        <itemPath>Matter/NoThing.h</itemPath>
+        <itemPath>Matter/Pit.h</itemPath>
+        <itemPath>Matter/Plant.cpp</itemPath>
+        <itemPath>Matter/Plant.h</itemPath>
+        <itemPath>Matter/Rock.h</itemPath>
+        <itemPath>Matter/Roots.cpp</itemPath>
+        <itemPath>Matter/Roots.h</itemPath>
+        <itemPath>Matter/Sand.h</itemPath>
+        <itemPath>Matter/Shrub.h</itemPath>
+        <itemPath>Matter/Sky.cpp</itemPath>
+        <itemPath>Matter/Sky.h</itemPath>
+        <itemPath>Matter/Snow.cpp</itemPath>
+        <itemPath>Matter/Snow.h</itemPath>
+        <itemPath>Matter/Spring.cpp</itemPath>
+        <itemPath>Matter/Spring.h</itemPath>
+        <itemPath>Matter/Terrain.cpp</itemPath>
+        <itemPath>Matter/Terrain.h</itemPath>
+        <itemPath>Matter/Thing.cpp</itemPath>
+        <itemPath>Matter/Thing.h</itemPath>
+        <itemPath>Matter/Tree.cpp</itemPath>
+        <itemPath>Matter/Tree.h</itemPath>
+        <itemPath>Matter/Water.cpp</itemPath>
+        <itemPath>Matter/Water.h</itemPath>
+        <itemPath>Matter/_.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="Ref" displayName="Ref" projectFiles="true">
+        <itemPath>Ref/Dir.cpp</itemPath>
+        <itemPath>Ref/Dir.h</itemPath>
+        <itemPath>Ref/DisplayType.cpp</itemPath>
+        <itemPath>Ref/DisplayType.h</itemPath>
+        <itemPath>Ref/Earth.cpp</itemPath>
+        <itemPath>Ref/Earth.h</itemPath>
+        <itemPath>Ref/FluidVel.cpp</itemPath>
+        <itemPath>Ref/FluidVel.h</itemPath>
+        <itemPath>Ref/GlobalInclude.h</itemPath>
+        <itemPath>Ref/MapCommand.h</itemPath>
+        <itemPath>Ref/SizeVal.cpp</itemPath>
+        <itemPath>Ref/SizeVal.h</itemPath>
+        <itemPath>Ref/Type.cpp</itemPath>
+        <itemPath>Ref/Type.h</itemPath>
+        <itemPath>Ref/Util.cpp</itemPath>
+        <itemPath>Ref/Util.h</itemPath>
+        <itemPath>Ref/Vector.cpp</itemPath>
+        <itemPath>Ref/Vector.h</itemPath>
+        <itemPath>Ref/_.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="World" displayName="World" projectFiles="true">
+        <itemPath>World/Animalia.cpp</itemPath>
+        <itemPath>World/Animalia.h</itemPath>
+        <itemPath>World/Game.cpp</itemPath>
+        <itemPath>World/Game.h</itemPath>
+        <itemPath>World/Grid.cpp</itemPath>
+        <itemPath>World/Grid.h</itemPath>
+        <itemPath>World/Map.cpp</itemPath>
+        <itemPath>World/Map.h</itemPath>
+        <itemPath>World/Species.cpp</itemPath>
+        <itemPath>World/Species.h</itemPath>
+        <itemPath>World/Square.cpp</itemPath>
+        <itemPath>World/Square.h</itemPath>
+        <itemPath>World/_.h</itemPath>
+      </logicalFolder>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>main.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>Biome</Elem>
+    <Elem>Gui</Elem>
+    <Elem>Matter</Elem>
+    <Elem>Ref</Elem>
+    <Elem>World</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>Cygwin|Cygwin</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>true</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <standard>11</standard>
+          <incDir>
+            <pElem>SDL2.dll</pElem>
+          </incDir>
+          <incFile>
+            <pElem>SDL2.dll</pElem>
+          </incFile>
+        </ccTool>
+        <linkerTool>
+          <output>eden</output>
+          <linkerLibItems>
+            <linkerLibFileItem>../../../../Windows/SysWOW64/SDL2.dll</linkerLibFileItem>
+          </linkerLibItems>
+          <commandLine>-lmingw32 -lSDL2main -lSDL2</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="Biome/Biome.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Biome/Desert.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Biome/Desert.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Biome/Flatland.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Biome/Flatland.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Biome/Forest.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Biome/Forest.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Biome/Hell.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Biome/Hell.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Biome/MountainRange.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Biome/MountainRange.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Biome/_.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Color.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Draw.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/Draw.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Event.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/Event.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Gui.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/Gui.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/LoadingScreen.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/LoadingScreen.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Popup/DisplayTypeMenu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/Popup/DisplayTypeMenu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Popup/MapCommandMenu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/Popup/MapCommandMenu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Popup/PopupMenu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/Popup/PopupMenu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Popup/_.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/_.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Animal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Animal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Blood.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Covering.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Covering.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Dirt.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Fluid.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Fluid.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Food.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Food.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Fruit.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Fruit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Glass.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Granite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Grass.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Grass.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Lava.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Lava.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Liquid.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Liquid.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Matter.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Matter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Mobador.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Mobador.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/NoThing.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Pit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Plant.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Plant.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Rock.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Roots.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Roots.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Sand.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Shrub.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Sky.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Sky.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Snow.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Snow.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Spring.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Spring.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Terrain.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Terrain.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Thing.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Thing.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Tree.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Tree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Water.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Water.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/_.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/Dir.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/Dir.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/DisplayType.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/DisplayType.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/Earth.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/Earth.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/FluidVel.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/FluidVel.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/GlobalInclude.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/MapCommand.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/SizeVal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/SizeVal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/Type.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/Type.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/Util.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/Util.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/Vector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/Vector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/_.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/Animalia.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="World/Animalia.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/Game.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="World/Game.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/Grid.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="World/Grid.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/Map.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="World/Map.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/Species.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="World/Species.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/Square.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="World/Square.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/_.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="main.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Biome/Biome.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Biome/Desert.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Biome/Desert.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Biome/Flatland.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Biome/Flatland.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Biome/Forest.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Biome/Forest.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Biome/Hell.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Biome/Hell.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Biome/MountainRange.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Biome/MountainRange.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Biome/_.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Color.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Draw.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/Draw.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Event.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/Event.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Gui.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/Gui.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/LoadingScreen.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/LoadingScreen.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Popup/DisplayTypeMenu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/Popup/DisplayTypeMenu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Popup/MapCommandMenu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/Popup/MapCommandMenu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Popup/PopupMenu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Gui/Popup/PopupMenu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/Popup/_.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Gui/_.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Animal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Animal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Blood.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Covering.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Covering.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Dirt.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Fluid.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Fluid.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Food.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Food.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Fruit.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Fruit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Glass.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Granite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Grass.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Grass.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Lava.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Lava.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Liquid.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Liquid.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Matter.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Matter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Mobador.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Mobador.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/NoThing.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Pit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Plant.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Plant.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Rock.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Roots.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Roots.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Sand.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Shrub.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Sky.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Sky.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Snow.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Snow.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Spring.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Spring.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Terrain.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Terrain.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Thing.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Thing.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Tree.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Tree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/Water.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Matter/Water.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Matter/_.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/Dir.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/Dir.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/DisplayType.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/DisplayType.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/Earth.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/Earth.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/FluidVel.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/FluidVel.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/GlobalInclude.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/MapCommand.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/SizeVal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/SizeVal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/Type.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/Type.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/Util.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/Util.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/Vector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Ref/Vector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ref/_.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/Animalia.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="World/Animalia.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/Game.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="World/Game.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/Grid.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="World/Grid.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/Map.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="World/Map.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/Species.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="World/Species.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/Square.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="World/Square.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="World/_.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="main.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
